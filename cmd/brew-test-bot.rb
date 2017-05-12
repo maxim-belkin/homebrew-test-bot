@@ -78,7 +78,7 @@
 #:    If `--ci-upload` is passed, use the Homebrew CI bottle upload
 #:    options.
 #:
-#:    If `--overwrite` is passed, overwrite existing artifacts on Bintray
+#:    If `--overwrite` is passed, overwrite existing published artifacts on Bintray
 #:
 #
 #:    Influential environment variables include:
